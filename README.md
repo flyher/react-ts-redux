@@ -1,1 +1,1 @@
-react-ts-redux
+本案例介绍使用`react-typescript-reudx`的项目使用
